@@ -1,4 +1,4 @@
-## Hi there, I'm Silen 👋
+## Hi there, I'm Sylens 👋
 
 ### Things I code with
 
