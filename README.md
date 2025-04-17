@@ -43,12 +43,13 @@
 </p>
 
 ### System
+<p>
 <img alt="FydeOS" src="https://custom-icon-badges.demolab.com/badge/-FydeOS-E40046?style=flat-square&logo=fydeos" />
 <img alt="Manjaro" src="https://img.shields.io/badge/-Manjaro-35bfa4?style=flat-square&logo=manjaro&logoColor=white" />
 <img alt="ChromiumOS" src="https://img.shields.io/badge/-ChromiumOS-1A73E8?style=flat-square&logo=googlechrome&logoColor=white" />
 <img alt="Debian" src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=debian&logoColor=white" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-
+</p>
 
 ### Github Stat
 
