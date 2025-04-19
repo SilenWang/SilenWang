@@ -43,8 +43,10 @@
 </p>
 
 #### Visualization
+<p>
 <img alt="plotly" src="https://img.shields.io/badge/-Plotly-F93778?style=flat-square&logo=plotly&logoColor=white" />
 <img alt="GGplot2" src="https://custom-icon-badges.demolab.com/badge/-GGplot2-001F51?style=flat-square&&logoColor=white&logo=ggplot2white" />
+</p>
 
 #### Bioinfomatics
 <p>
