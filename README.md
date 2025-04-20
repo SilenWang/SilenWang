@@ -25,6 +25,8 @@
 #### Tools
 
 <p>
+<img alt="Pixi" src="https://custom-icon-badges.demolab.com/badge/-Pixi-ffe300?style=flat-square&logo=prefixdev&logoColor=white" />
+<img alt="Conda" src="https://img.shields.io/badge/-Anaconda-35bfa4?style=flat-square&logo=anaconda&logoColor=white" />
 <img alt="VScode" src="https://custom-icon-badges.demolab.com/badge/-VScode-24A4EB?style=flat-square&logo=vscodealt&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-FFCA00?style=flat-square&logo=pandas&logoColor=white" />
 <img alt="Dask" src="https://custom-icon-badges.demolab.com/badge/-Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white" />
@@ -33,7 +35,6 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-f37524?style=flat-square&logo=Jupyter&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="Conda" src="https://img.shields.io/badge/-Anaconda-35bfa4?style=flat-square&logo=anaconda&logoColor=white" />
 <img alt="Rstudio" src="https://img.shields.io/badge/-Rstudio-447099?style=flat-square&logo=rstudioide&logoColor=white" />
 <img alt="Shiny" src="https://custom-icon-badges.demolab.com/badge/-Shiny-007BC2?style=flat-square&logo=shinywhite&logoColor=white" />
 <img alt="Github" src="https://img.shields.io/badge/-Github-1F2328?style=flat-square&logo=github&logoColor=white" />
@@ -68,4 +69,7 @@
 
 #### Github Stat
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SilenWang&count_private=true&show_icons=true"/>
+<!-- <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats-ruby-nu-23.vercel.app/api?username=SilenWang&count_private=true&show_icons=true"/> -->
+
+<img height=200 align="center" src="https://github-readme-stats-ruby-nu-23.vercel.app/api?username=SilenWang&count_private=true&show_icons=true" />
+<img height=200 align="center" src="https://github-readme-stats-ruby-nu-23.vercel.app/api/top-langs?username=SilenWang&layout=compact&langs_count=8&card_width=320&hide=html,javascript,css" />
