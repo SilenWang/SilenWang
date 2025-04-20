@@ -69,7 +69,7 @@
 
 #### Github Stat
 
-<!-- <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats-ruby-nu-23.vercel.app/api?username=SilenWang&count_private=true&show_icons=true"/> -->
-
-<img height=200 align="center" src="https://github-readme-stats-ruby-nu-23.vercel.app/api?username=SilenWang&count_private=true&show_icons=true" />
-<img height=200 align="center" src="https://github-readme-stats-ruby-nu-23.vercel.app/api/top-langs?username=SilenWang&layout=compact&langs_count=8&card_width=320&hide=html,javascript,css" />
+<p>
+<img height=180 align="center" src="https://github-readme-stats-ruby-nu-23.vercel.app/api?username=SilenWang&count_private=true&show_icons=true" />
+<img height=180 align="center" src="https://github-readme-stats-ruby-nu-23.vercel.app/api/top-langs?username=SilenWang&layout=compact&langs_count=8&card_width=320&hide=html,javascript,css" />
+</p>
