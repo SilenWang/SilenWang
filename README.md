@@ -32,6 +32,7 @@
 <img alt="Dask" src="https://custom-icon-badges.demolab.com/badge/-Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-444444?style=flat-square&logo=flask&logoColor=white" />
 <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-059487?style=flat-square&logo=fastapi&logoColor=white" />
+<img alt="Scrapy" src="https://custom-icon-badges.demolab.com/badge/-Scrapy-15B8A6?style=flat-square&&logoColor=white&logo=scrapy" />
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-f37524?style=flat-square&logo=Jupyter&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
