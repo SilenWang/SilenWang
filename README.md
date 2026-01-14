@@ -2,7 +2,7 @@
 
 Bioinformatics engineer by day, open-source fan by night.
 
-<img src="https://raw.githubusercontent.com/SilenWang/Gallary/master/2026/01/upgit_20260110_1768039212.png" />
+<img height=200 src="https://raw.githubusercontent.com/SilenWang/Gallary/master/2026/01/upgit_20260110_1768039212.png" />
 
 ### Things I used for work
 
