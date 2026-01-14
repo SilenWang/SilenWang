@@ -4,8 +4,7 @@ Bioinformatics engineer by day, open-source fan by night.
 
 <img height=200 src="https://raw.githubusercontent.com/SilenWang/Gallary/master/2026/01/upgit_20260110_1768039212.png" />
 
-### Things I used for work
-
+## Things I used for work
 
 <p>
 <strong align=center>Programing Language:</strong>
@@ -87,7 +86,7 @@ Bioinformatics engineer by day, open-source fan by night.
 <img align=center src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
-#### Github Stat
+## Github Stat
 
 <p>
 <img height=180 align="center" src="https://github-readme-stats-ruby-nu-23.vercel.app/api?username=SilenWang&count_private=true&show_icons=true" />
