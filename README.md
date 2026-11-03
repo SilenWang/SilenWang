@@ -14,16 +14,8 @@ Public Health → Molecular Epidemiology → Bioinformatics → Neoantigens → 
 <img align=center src="https://img.shields.io/badge/-opencode-000000?style=flat-square&logo=opencode&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/-Codex-412991?style=flat-square&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/-Reasonix-1F1F1F?style=flat-square&logoColor=white" />
-<img align=center src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img align=center src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img align=center src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img align=center src="https://img.shields.io/badge/-Unsloth-6E4AFF?style=flat-square&logoColor=white" />
-<img align=center src="https://img.shields.io/badge/-MLX-000000?style=flat-square&logo=apple&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" />
-<img align=center src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img align=center src="https://img.shields.io/badge/-MCP-1F1F1F?style=flat-square&logoColor=white" />
 <img align=center src="https://img.shields.io/badge/-ComfyUI-1F1F1F?style=flat-square&logoColor=white" />
-<img align=center src="https://img.shields.io/badge/-Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
 </p>
 
 <p>
@@ -40,6 +32,16 @@ Public Health → Molecular Epidemiology → Bioinformatics → Neoantigens → 
 <img align=center src="https://custom-icon-badges.demolab.com/badge/-Bedtools-D91E30?style=flat-square&&logoColor=white&logo=bedtoolswhite" />
 <img align=center src="https://custom-icon-badges.demolab.com/badge/-GATK-3370A3?style=flat-square&&logoColor=white&logo=gatkwhite" />
 <img align=center src="https://custom-icon-badges.demolab.com/badge/-Scanpy-F3643A?style=flat-square&&logoColor=white&logo=scanpywhite" />
+</p>
+
+<p>
+<strong align=center>Operating Systems:</strong>
+<img align=center src="https://custom-icon-badges.demolab.com/badge/-FydeOS-E40046?style=flat-square&logo=fydeos" />
+<img align=center src="https://img.shields.io/badge/-Manjaro-35bfa4?style=flat-square&logo=manjaro&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/-ChromiumOS-1A73E8?style=flat-square&logo=googlechrome&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=debian&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+<img align=center src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
 ## Github Stat
